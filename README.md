@@ -1,14 +1,14 @@
 # 伏羲 🐉
 
 > 女娲造人，伏羲画八卦——给混沌以符号，给无序以结构。
-> — Keith Spicer《驻足思考》方法论，被伏羲注入了秩序
+> — Keith Spicer《伏羲》方法论，被伏羲注入了秩序
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-blue)](https://claude.ai/code)
 
 一套让你在**没有任何讲稿**的情况下，也能有条理、有说服力、有魅力地张嘴就说的完整操作系统。
 
-源自 Keith Spicer 经典著作《Think on Your Feet》(1986) 和《Winging It》(1982)，蒸馏为可被 AI（Claude Code）直接执行的沟通教练 Skill。
+源自 Keith Spicer 经典著作《伏羲》(1986) 和《Winging It》(1982)，蒸馏为可被 AI（Claude Code）直接执行的沟通教练 Skill。
 
 ---
 
@@ -41,14 +41,14 @@ git clone https://github.com/ylq123/fuxi-skill.git ~/.claude/skills/fuxi-skill/
 
 ```
 "帮我为明天的季度汇报设计一个三桩子结构，听众是挑剔的 CFO"
-"用驻足思考的 AIR 法则，分析我刚才被客户质问时哪里出了问题"
+"用伏羲的 AIR 法则，分析我刚才被客户质问时哪里出了问题"
 "我要给非技术团队讲这个技术方案，帮我用图景辅助框架设计类比"
 ```
 
 或使用斜杠命令：
 
 ```
-/think-on-your-feet 帮我设计一个10分钟的晋升答辩演讲结构
+/fuxi 帮我设计一个10分钟的晋升答辩演讲结构
 ```
 
 ---
@@ -97,7 +97,7 @@ git clone https://github.com/ylq123/fuxi-skill.git ~/.claude/skills/fuxi-skill/
 ## 📁 目录结构
 
 ```
-think-on-your-feet-framework/
+fuxi-skill/
 ├── README.md                          # 你在这儿
 ├── LICENSE                            # MIT
 ├── SKILL.md                           # 完整方法论（主技能）
@@ -124,10 +124,10 @@ think-on-your-feet-framework/
 如果需要将 4 个子技能拆分为独立 Skill：
 
 ```bash
-ln -s ~/.claude/skills/think-on-your-feet-framework/modules/audience-analysis-message-design ~/.claude/skills/
-ln -s ~/.claude/skills/think-on-your-feet-framework/modules/speech-structure-logic-design ~/.claude/skills/
-ln -s ~/.claude/skills/think-on-your-feet-framework/modules/impromptu-delivery-qa-handling ~/.claude/skills/
-ln -s ~/.claude/skills/think-on-your-feet-framework/modules/strategic-expression-frameworks ~/.claude/skills/
+ln -s ~/.claude/skills/fuxi-skill/modules/audience-analysis-message-design ~/.claude/skills/
+ln -s ~/.claude/skills/fuxi-skill/modules/speech-structure-logic-design ~/.claude/skills/
+ln -s ~/.claude/skills/fuxi-skill/modules/impromptu-delivery-qa-handling ~/.claude/skills/
+ln -s ~/.claude/skills/fuxi-skill/modules/strategic-expression-frameworks ~/.claude/skills/
 ```
 
 ---
@@ -144,7 +144,7 @@ ln -s ~/.claude/skills/think-on-your-feet-framework/modules/strategic-expression
 
 ## 📚 致谢
 
-- 源材料：《Think on Your Feet》(1986) 和《Winging It》(1982) by Keith Spicer (1934–2023)
+- 源材料：《伏羲》(1986) 和《Winging It》(1982) by Keith Spicer (1934–2023)
 - 创建者：[李培](https://x.com/AlchainHust)
 
 ---
