@@ -1,17 +1,16 @@
 ---
-name: think-on-your-feet
+name: fuxi
 description: |
-  《驻足思考》(Think on Your Feet) 完整即兴演讲与沟通方法论。源自 Keith Spicer 经典著作，
-  覆盖从听众分析、核心信息设计、逻辑结构搭建，到脱稿即兴表达、Q&A应对、高级表达框架的全流程。
+  伏羲——给混沌的即兴表达注入秩序。基于 Keith Spicer《驻足思考》经典方法论，
+  覆盖听众分析、逻辑结构搭建、脱稿即兴表达、Q&A应对、高级表达框架的全流程。
   当用户需要准备演讲汇报、应对即兴发言、处理棘手问答、设计说服性沟通框架时使用。
-  触发词：「驻足思考」「Think on Your Feet」「即兴演讲」「脱稿发言」「电梯演讲」「三桩子法」
+  触发词：「伏羲」「即兴演讲」「脱稿发言」「驻足思考」「Think on Your Feet」
   「怎么讲」「被问住了」「汇报怎么做」「帮我设计演讲结构」
 ---
 
-# 驻足思考 · 即兴演讲方法论
+# 伏羲 · 即兴表达秩序
 
-> "More paper means more bondage. With it you constipate eloquence, drive audiences to counting files on the ceiling."
-> — Keith Spicer, *Winging It*
+> 女娲造人，伏羲画八卦——给混沌以符号，给无序以结构。
 
 ---
 

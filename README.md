@@ -1,7 +1,7 @@
-# 驻足思考 · Think on Your Feet 🎤
+# 伏羲 🐉
 
-> "More paper means more bondage. With it you constipate eloquence, drive audiences to counting files on the ceiling."
-> — Keith Spicer, *Winging It*
+> 女娲造人，伏羲画八卦——给混沌以符号，给无序以结构。
+> — Keith Spicer《驻足思考》方法论，被伏羲注入了秩序
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-blue)](https://claude.ai/code)
@@ -30,7 +30,7 @@
 
 ```bash
 # 克隆到 Claude Code 技能目录
-git clone https://github.com/ylq123/think-on-your-feet.git ~/.claude/skills/think-on-your-feet-framework/
+git clone https://github.com/ylq123/fuxi.git ~/.claude/skills/fuxi/
 ```
 
 无需额外配置，Claude Code 自动发现并注册。
