@@ -121,7 +121,7 @@ fuxi-skill/
 
 ### 高级用户：拆分安装子模块
 
-如果需要将 4 个子技能拆分为独立 Skill：
+如果需要将 4 个子技能拆分为独立 Skill，以Claude Code为例：
 
 ```bash
 ln -s ~/.claude/skills/fuxi-skill/modules/audience-analysis-message-design ~/.claude/skills/
